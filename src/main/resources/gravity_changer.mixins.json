@@ -51,6 +51,7 @@
     "WitchEntityMixin",
     "WitherEntityMixin",
     "WolfBegGoalMixin",
+    "fall_distance.ServerGamePacketListenerImplMixin",
     "fall_distance.ServerPlayerEntityMixin_FallDistance"
   ],
   "client": [
